@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11914003387",
+    "firebase_url": "https://aulaandroid20190325.firebaseio.com",
+    "project_id": "aulaandroid20190325",
+    "storage_bucket": "aulaandroid20190325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11914003387:android:811fc9b196ea9aad",
+        "android_client_info": {
+          "package_name": "com.example.opet.aulaandroid20190325"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11914003387-hhjb684obhaq7elk6vm9q4h3av3lt2jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opet.aulaandroid20190325",
+            "certificate_hash": "7de7b533e2cf68fc9e9ee57622474d6dd8127d9a"
+          }
+        },
+        {
+          "client_id": "11914003387-qsvvcgnnbp3uljpq8hi0s0qsh5nradg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMO9hxeHtu1uOZnoAsqnXO8_3J3VuS8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11914003387-qsvvcgnnbp3uljpq8hi0s0qsh5nradg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
